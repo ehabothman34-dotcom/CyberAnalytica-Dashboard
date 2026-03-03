@@ -79,4 +79,5 @@ elif menu == "🛡️ مراقبة تسريب البيانات التراكمي"
             st.success("✅ عملية نقل آمنة.")
 
 st.markdown("---")
-st.caption(f"تم التطوير بواسطة LEX-Ω لمدونة CyberAnalytica | {datetime.now().year}")
+st.caption(f" مدونة CyberAnalytica | {datetime.now().year}")
+
